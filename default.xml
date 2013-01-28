@@ -185,7 +185,7 @@
   <project path="frameworks/ml" name="platform/frameworks/ml" />
   <project path="frameworks/support" name="platform/frameworks/support" />
   <project path="frameworks/wilhelm" name="platform/frameworks/wilhelm" />
-  <project path="frameworks/opt/telephony" name="android_frameworks_opt_telephony" remote="fergy" revision="master" />
+  <project path="frameworks/opt/telephony" name="android_frameworks_opt_telephony" remote="fergy" revision="cm-10.1" />
   <project path="gdk" name="platform/gdk" />
   <project path="hardware/broadcom/wlan" name="platform/hardware/broadcom/wlan" />
   <project path="hardware/invensense" name="platform/hardware/invensense" />
