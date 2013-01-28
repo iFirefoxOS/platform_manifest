@@ -135,7 +135,7 @@
   <project path="external/openfst" name="platform/external/openfst" />
   <project path="external/openssh" name="platform/external/openssh" />
   <project path="external/openssl" name="platform/external/openssl" />
-  <project path="external/openvpn" name="platform/external/openvpn" />
+  <project path="external/openvpn" name="android-external-openvpn" remote="fergy" />
   <project path="external/oprofile" name="platform/external/oprofile" />
   <project path="external/ping" name="platform/external/ping" />
   <project path="external/ping6" name="platform/external/ping6" />
@@ -185,6 +185,7 @@
   <project path="frameworks/ml" name="platform/frameworks/ml" />
   <project path="frameworks/support" name="platform/frameworks/support" />
   <project path="frameworks/wilhelm" name="platform/frameworks/wilhelm" />
+  <project path="frameworks/opt/telephony" name="android_frameworks_opt_telephony" remote="fergy" />
   <project path="gdk" name="platform/gdk" />
   <project path="hardware/broadcom/wlan" name="platform/hardware/broadcom/wlan" />
   <project path="hardware/invensense" name="platform/hardware/invensense" />
