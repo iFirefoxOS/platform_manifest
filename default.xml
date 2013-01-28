@@ -291,6 +291,7 @@
   <project path="prebuilts/qemu-kernel" name="platform/prebuilts/qemu-kernel" />
   <project path="prebuilts/sdk" name="platform/prebuilts/sdk" />
   <project path="prebuilts/tools" name="platform/prebuilts/tools" />
+  <project path="sdk" name="android_sdk" remote="cm" revision="cm-10.1" />
   <project path="system/bluetooth" name="platform/system/bluetooth" />
   <project path="system/core" name="platform_system_core" remote="iDroid" revision="gingerbread" />
   <project path="system/extras" name="platform_system_extras" remote="iDroid" revision="gingerbread" />
