@@ -27,6 +27,7 @@
   <project path="external/aac" name="platform/external/aac" />
   <project path="external/ant-glob" name="platform/external/ant-glob" />
   <project path="external/antlr" name="platform/external/antlr" />
+  <project path="external/apache-http" name="platform/external/apache-http" />
   <project path="external/arduino" name="platform/external/arduino" />
   <project path="external/astl" name="platform/external/astl" />
   <project path="device/common" name="device/common" />
@@ -41,6 +42,7 @@
   <project path="external/bzip2" name="platform/external/bzip2" />
   <project path="external/checkpolicy" name="platform/external/checkpolicy" />
   <project path="external/cibu-fonts" name="platform/external/cibu-fonts" />
+  <project path="external/clang" name="platform/external/clang" />
   <project path="external/compiler-rt" name="platform/external/compiler-rt" />
   <project path="external/dbus" name="platform/external/dbus" />
   <project path="external/dexmaker" name="platform/external/dexmaker" />
@@ -85,6 +87,7 @@
   <project path="external/jmonkeyengine" name="platform/external/jmonkeyengine" />
   <project path="external/jpeg" name="platform/external/jpeg" />
   <project path="external/jsr305" name="platform/external/jsr305" />
+  <project path="external/junit" name="platform/external/junit" />
   <project path="external/kernel-headers" name="platform/external/kernel-headers" />
   <project path="external/libffi" name="platform/external/libffi" />
   <project path="external/libgsm" name="platform/external/libgsm" />
